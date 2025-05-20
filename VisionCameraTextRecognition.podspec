@@ -18,11 +18,7 @@ Pod::Spec.new do |s|
 
   s.dependency "React-Core"
   s.dependency "VisionCamera"
-  s.dependency "GoogleMLKit/TextRecognition"
-  s.dependency "GoogleMLKit/TextRecognitionChinese"
-  s.dependency "GoogleMLKit/TextRecognitionDevanagari"
-  s.dependency "GoogleMLKit/TextRecognitionJapanese"
-  s.dependency "GoogleMLKit/TextRecognitionKorean"
-  s.dependency "GoogleMLKit/Translate"
+  s.dependency "GoogleMLKit/TextRecognition", "7.0.0"
+  s.dependency "GoogleMLKit/Translate", "7.0.0"
 
 end
