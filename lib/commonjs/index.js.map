@@ -1,0 +1,1 @@
+{"version":3,"names":["_Camera","require","_RemoveLanguageModel","_PhotoRecognizer"],"sourceRoot":"../../src","sources":["index.ts"],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA,IAAAA,OAAA,GAAAC,OAAA;AAEA,IAAAC,oBAAA,GAAAD,OAAA;AAEA,IAAAE,gBAAA,GAAAF,OAAA","ignoreList":[]}

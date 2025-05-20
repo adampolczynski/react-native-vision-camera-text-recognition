@@ -1,0 +1,1 @@
+{"version":3,"names":["_reactNative","require","RemoveLanguageModel","code","Remove","NativeModules","remove"],"sourceRoot":"../../src","sources":["RemoveLanguageModel.ts"],"mappings":";;;;;;AAAA,IAAAA,YAAA,GAAAC,OAAA;AAGO,eAAeC,mBAAmBA,CAACC,IAAe,EAAoB;EAC3E,MAAM;IAAED,mBAAmB,EAAEE;EAAO,CAAC,GAAGC,0BAAa;EACrD,OAAO,MAAMD,MAAM,CAACE,MAAM,CAACH,IAAI,CAAC;AAClC","ignoreList":[]}

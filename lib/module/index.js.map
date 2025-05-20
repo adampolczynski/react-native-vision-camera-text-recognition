@@ -1,0 +1,1 @@
+{"version":3,"names":["Camera","useTranslate","useTextRecognition","RemoveLanguageModel","PhotoRecognizer"],"sourceRoot":"../../src","sources":["index.ts"],"mappings":"AAAA,SAASA,MAAM,EAAEC,YAAY,EAAEC,kBAAkB,QAAQ,UAAU;AAEnE,SAASC,mBAAmB,QAAQ,uBAAuB;AAE3D,SAASC,eAAe,QAAQ,mBAAmB","ignoreList":[]}

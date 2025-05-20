@@ -1,0 +1,1 @@
+{"version":3,"names":["NativeModules","RemoveLanguageModel","code","Remove","remove"],"sourceRoot":"../../src","sources":["RemoveLanguageModel.ts"],"mappings":"AAAA,SAASA,aAAa,QAAQ,cAAc;AAG5C,OAAO,eAAeC,mBAAmBA,CAACC,IAAe,EAAoB;EAC3E,MAAM;IAAED,mBAAmB,EAAEE;EAAO,CAAC,GAAGH,aAAa;EACrD,OAAO,MAAMG,MAAM,CAACC,MAAM,CAACF,IAAI,CAAC;AAClC","ignoreList":[]}
